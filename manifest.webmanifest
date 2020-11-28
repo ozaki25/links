@@ -13,14 +13,14 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#4E526F",
   "theme_color": "#4E526F",
   "shortcuts": [
     {
       "name": "links",
-      "url": "/"
+      "url": "."
     }
   ]
 }
