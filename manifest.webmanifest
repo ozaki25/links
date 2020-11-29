@@ -20,7 +20,7 @@
   "shortcuts": [
     {
       "name": "links",
-      "url": ".",
+      "url": "shortcut.html",
       "icons": [
         {
           "src": "images/icons-192-circle.png",
