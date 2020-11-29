@@ -19,7 +19,9 @@
   "theme_color": "#4E526F",
   "shortcuts": [
     {
-      "name": "links",
+      "name": "shortcut sample",
+      "short_name": "sample",
+      "description": "Shortcut sample page",
       "url": "shortcut.html",
       "icons": [
         {
