@@ -3,12 +3,12 @@
   "short_name": "ozaki25",
   "icons": [
     {
-      "src": "images/icons-192.png",
+      "src": "images/icons-192-circle.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "images/icons-512.png",
+      "src": "images/icons-512-circle.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -20,7 +20,8 @@
   "shortcuts": [
     {
       "name": "links",
-      "url": "."
+      "url": ".",
+      "src": "images/icons-96-circle.png"
     }
   ]
 }
