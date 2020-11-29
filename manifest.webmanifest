@@ -23,8 +23,8 @@
       "url": ".",
       "icons": [
         {
-          "src": "images/icons-96-circle.png",
-          "sizes": "96x96"
+          "src": "images/icons-192-circle.png",
+          "sizes": "192x192"
         }
       ]
     }
